@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: electivas-back
+    runtime: node
+    rootDir: back
+    plan: free
+    branch: main
+    buildCommand: npm install
+    startCommand: npm run start
+    healthCheckPath: /health
+    autoDeploy: true
+    envVars:
+      - key: NODE_VERSION
+        value: 20
+      - key: CORS_ORIGIN
+        value: https://TU-PROYECTO.vercel.app
