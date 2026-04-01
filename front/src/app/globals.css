@@ -181,9 +181,9 @@ input {
 
 .hero-band__label {
 	font-size: 0.78rem;
-	font-weight: 800;
+	font-weight: 700;
 	text-transform: uppercase;
-	letter-spacing: 0.12em;
+	letter-spacing: 0.08em;
 	color: var(--accent);
 }
 
@@ -255,6 +255,24 @@ html[data-theme="dark"] .md-switch__track {
 
 .md-switch__text {
 	font-weight: 700;
+}
+
+.notice-banner {
+	display: inline-flex;
+	align-items: center;
+	justify-self: start;
+	width: fit-content;
+	max-width: 100%;
+	padding: 14px 18px;
+	border-radius: var(--radius-m);
+	border: 1px dashed var(--line);
+	background: color-mix(in srgb, var(--secondary-soft) 58%, transparent);
+	color: var(--text-soft);
+}
+
+.notice-banner p {
+	font-size: 0.96rem;
+	line-height: 1.5;
 }
 
 .directory,
@@ -359,17 +377,14 @@ html[data-theme="dark"] .md-switch__track {
 .career-card-link__title {
 	font-size: clamp(1.45rem, 2vw, 1.9rem);
 	letter-spacing: -0.03em;
-}
-
-.career-card-link__text {
-	color: var(--text-soft);
-	line-height: 1.55;
-	max-width: 34ch;
+	margin-top: 6px;
+	margin-bottom: 18px;
 }
 
 .career-card-link__cta {
-	color: var(--primary);
-	font-weight: 800;
+	color: color-mix(in srgb, var(--primary) 88%, var(--text));
+	font-weight: 700;
+	letter-spacing: -0.01em;
 }
 
 .search-field {

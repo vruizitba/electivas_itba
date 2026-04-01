@@ -8,7 +8,12 @@ import { PageChrome } from "./page-chrome";
 import { SubjectCard } from "./subject-card";
 
 function normalizeText(value) {
-	return String(value || "").toLowerCase().trim();
+	return String(value || "")
+		.normalize("NFD")
+		.replace(/[\u0300-\u036f]/g, "")
+		.toLowerCase()
+		.replace(/\s+/g, " ")
+		.trim();
 }
 
 function formatUpdatedAt(value) {

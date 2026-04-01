@@ -44,16 +44,21 @@ export function CareersHome() {
 
 	return (
 		<PageChrome
-			eyebrow="Electivas por carrera"
+			eyebrow="Consulta de electivas"
 			title="Electivas ITBA"
-			subtitle="Elegi una carrera para ver sus materias, consultar los contenidos minimos y descargar el archivo en JSON."
+			subtitle=""
 		>
 			<section className="hero-band">
 				<div className="hero-band__copy">
-					<p className="hero-band__label">Como usar esta pagina</p>
-					<p className="hero-band__text">Selecciona una carrera para entrar a su detalle y recorrer las materias.</p>
+					<p className="hero-band__label">Como usar la pagina</p>
+					<p className="hero-band__text">
+						Selecciona una carrera para ver sus materias, consultar los contenidos minimos y descargar el archivo JSON de la carrera.
+					</p>
 				</div>
-				<p className="hero-band__aside">Bioingenieria e Ingenieria Informatica disponibles.</p>
+			</section>
+
+			<section className="notice-banner" aria-label="Proximas carreras">
+				<p>Mas ingenierias proximamente.</p>
 			</section>
 
 			<section className="directory">
