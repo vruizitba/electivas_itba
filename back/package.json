@@ -1,0 +1,22 @@
+{
+  "name": "electivas-back",
+  "version": "1.0.0",
+  "private": true,
+  "description": "API para servir los JSON de electivas extraidos desde SGA ITBA",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "node --watch src/server.js",
+    "start": "node src/server.js",
+    "scrape": "node scripts/scrape.js",
+    "scrape:informatica": "SGA_SCRAPER=electivas_informatica node scripts/scrape.js",
+    "scrape:bioingenieria": "SGA_SCRAPER=electivas_bioingenieria node scripts/scrape.js",
+    "smoke:test": "node scripts/smoke-test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "dotenv": "^16.6.1",
+    "playwright": "^1.59.1"
+  }
+}

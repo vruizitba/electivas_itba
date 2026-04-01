@@ -1,0 +1,674 @@
+[
+  {
+    "materia": {
+      "codigo": "10.07",
+      "nombre": "Creatividad"
+    },
+    "contenidos_minimos": "Que se entiende por creatividad. Características de una personalidad creativa. Elementos de la creatividad: persona, propósito, ambiente, proceso y técnicas. Modelo de aprendizaje y de memoria. CV de la persona creativa. Tipos de pensamiento. Modelo de comportamiento de la persona. Ejercicio de modelos de comportamiento. Test de creatividad. Límites de la creatividad relacionados al entorno."
+  },
+  {
+    "materia": {
+      "codigo": "10.08",
+      "nombre": "Energías Renovables"
+    },
+    "contenidos_minimos": "Energía Eólica. Energía Solar (Fotovoltaica, térmica y termosolar de concentración). Biomasa. Hidráulica. Procesos de hidrógeno y pilas de combustible. Cogeneración eléctrica. Arquitectura bioclimática. Energía geotérmica. Ahorro y eficiencia energética. Impacto ambiental. Nuevas formas de energía."
+  },
+  {
+    "materia": {
+      "codigo": "10.09",
+      "nombre": "Formación para Emprendedores"
+    },
+    "contenidos_minimos": "Contexto y Cultura del Emprendedor. El Emprendedor, su desarrollo Personal y Empresarial. El Proceso Emprendedor Profesional. El Equipo Emprendedor y el Management Requerido. Búsqueda de Ideas y Oportunidades. Validación de Ideas y Oportunidades. Modelización del Emprendimiento. Estrategias para el Acceso a Recursos Claves para Emprender."
+  },
+  {
+    "materia": {
+      "codigo": "11.19",
+      "nombre": "Prototipado e Impresión 3D"
+    },
+    "contenidos_minimos": "Introducción al Diseño, Desarrollo y Modelización de Productos. Etapas del proceso de Diseño de Productos Industriales. Proceso de Diseño 3D, software y renderizado. Procesos de generación de Modelos y maquetas manuales, materiales, procesos, terminaciones. Procesos de generación de Prototipos maquinados, tipos de equipamiento, resultados, materiales y sus utilidades. Proceso de post procesado CAM, software y aplicación."
+  },
+  {
+    "materia": {
+      "codigo": "11.76",
+      "nombre": "Gestión de Calidad"
+    },
+    "contenidos_minimos": "Introducción a la calidad - Cultura empresarial y resistencia al cambio - Concepto de proceso y control - Estrategias de calidad - Herramientas - Introducción al CEP - Gráficos de control por variables - Aptitud de proceso - Gráficos de control por atributos - Análisis del sistema de medición - Planeamiento de la calidad - Análisis de fallas y sus efectos - Método de resolución de problemas 8D - Método de resolución de problemas estadísticos - Confiabilidad - Indicadores de calidad - Normas de sistemas de calidad - Deming - 5S - Sistema Operativo de Gestión - Factor Humano de la Calidad - Diseño de Experimentos."
+  },
+  {
+    "materia": {
+      "codigo": "14.72",
+      "nombre": "Analytics"
+    },
+    "contenidos_minimos": "Analytics – Que se puede hacer con los datos que tiene una empresa? Cultura basada en datos. Proceso analítico. Perfiles en Analytics. Modelos Tipos de algoritmos para distintos problemas. Modelos supervisados y no supervisados. Scores. Algoritmos clásicos de Analytics - Modelos de regresión logística. Árboles de decisión. Análisis de agrupamiento y distancias. Introducción al Text Mining.\""
+  },
+  {
+    "materia": {
+      "codigo": "15.13",
+      "nombre": "Innovación en materiales Biobasados"
+    },
+    "contenidos_minimos": "Condición de los recursos naturales actualmente a nivel nacional y mundial. Relación de los materiales con sus descartes y con el consumo. Análisis de descartes a nivel nacional. Tipos de materiales biobasados existentes. Formas de elaboración."
+  },
+  {
+    "materia": {
+      "codigo": "16.04",
+      "nombre": "Neurociencias y Desarrollo Productivo"
+    },
+    "contenidos_minimos": "Introducción a la neurociencia cognitiva. Neuroanatomía funcional. Aprendizaje, recompensa y motivación. Procesos mnésicos. Sueño. Sueño y memoria. Atención. Ceguera atencional. Toma de decisiones. Resolución de problemas, pensamiento creativo y sueño. Emoción. Estrés como modulador de procesos cognitivos. Burned out. Sueño y rendimiento laboral. Recompensa y motivación. Mindfulness y cambios neurofisiológicos."
+  },
+  {
+    "materia": {
+      "codigo": "16.09",
+      "nombre": "Ventilación Mecánica"
+    },
+    "contenidos_minimos": ""
+  },
+  {
+    "materia": {
+      "codigo": "16.14",
+      "nombre": "Fisiología Cuantitativa"
+    },
+    "contenidos_minimos": "Introducción a la fisiología humana. El sistema cardiovascular. El riñón y los líquidos corporales El sistema respiratorio. El sistema nervioso"
+  },
+  {
+    "materia": {
+      "codigo": "16.19",
+      "nombre": "Biosensores"
+    },
+    "contenidos_minimos": "Introducción a biosensores Transductores físico-químicos Biosensores inteligentes Tecnologías y aplicaciones para deteccion de DNA Aplicaciones clínicas de los biosensores"
+  },
+  {
+    "materia": {
+      "codigo": "16.20",
+      "nombre": "Biomedicina Estructural y Computacional"
+    },
+    "contenidos_minimos": "Estructura tridimensional de moléculas. Fundamentos fisicoquímicos. Utilización de programas de visualización molecular. Estudio estructural y funcional de moléculas mediante recursos en línea. Clasificación de biomoléculas. Métodos de determinación estructural. Relación estructura y función. Métodos de modelado y simulación computacional. Análisis estructural integral orientado a problemas biomédicos."
+  },
+  {
+    "materia": {
+      "codigo": "16.21",
+      "nombre": "Bioinformática"
+    },
+    "contenidos_minimos": "Conceptos de básicos de Biología Molecular. Paradigma de Darwin. Búsqueda de secuencias en bases de datos. Alineamiento de secuencias. Alineamiento de pares de secuencias global y local Algoritmos de Needleman-Wunsch y Smith-Waterman. Programación en Bioinformática bajo Linux, Perl, BioPerl, R, Bioconductor. Búsqueda de secuencias similares en bases de datos Conceptos básicos de probabilidad y estadística asociados al alineamiento de secuencias Significancia estadística de los resultados obtenidos en un alineamiento. Alineamiento de secuencias múltiple. Alineamiento de secuencias múltiple Matriz de puntación de posición-específica , los patrones y Búsquedas de secuencias similares utilizando HMMs. Análisis de expresión génica y regulación. Inferencia y modelado de redes biológicas. Inferencia y modelado de redes biológicas. Predicción de estructura secundaria de ARN Predicción de estructura de proteínas y su clasificación. Métodos computacionales de identificación de proteínas - Ensamblado, análisis, visualización y anotación de Genomas"
+  },
+  {
+    "materia": {
+      "codigo": "16.22",
+      "nombre": "Informática Médica"
+    },
+    "contenidos_minimos": "Informática Médica, una nueva disciplina. Fuentes y recuperación de la Información biomédica Organización y presentación de la información Los Sistemas de Salud desde la perspectiva de la información"
+  },
+  {
+    "materia": {
+      "codigo": "16.23",
+      "nombre": "Órganos Artificiales"
+    },
+    "contenidos_minimos": "Aparato Locomotor. Aparator circulatorio. Estructuras Vasculares. Reemplazo de la Funcion Renal (a). Reemplazo de la Funcion Renal (b). Respiratorio (a). Aparato Respiratorio (b). Aparato Digestivo. Sistema Nervioso . Sistema Glandular y genital"
+  },
+  {
+    "materia": {
+      "codigo": "16.27",
+      "nombre": "Ingeniería de Tejidos"
+    },
+    "contenidos_minimos": "Introducción al cultivo de células: Estrategias para la selección de células, biomateriales y reguladores solubles para el cultivo celular y tisular, in vitro e in vivo. Comparación de matrices celulares y sintéticas. Células madre embrionarias e pluripotentes inducidas. Preparación de células, factor de crecimeinto y genes. Principios de la ingeniería de tejidos: células y reguladores. Efectos de las condiciones de cultivo. Diseño biomimético. Respuesta a reguladores mecánicos. Terapia génica. Aplicaciones clínicas: cultivo de piel, cartílagos y regeneración ósea, vasos y válvulas, nervios periféricos. Regulaciones vigentes."
+  },
+  {
+    "materia": {
+      "codigo": "16.29",
+      "nombre": "Diseño de Fármacos"
+    },
+    "contenidos_minimos": "El proceso de descubrimiento de fármacos. Representación in silico de estructuras biomoleculares y bibliotecas químicas. Modelado de proteínas. Conceptos de química medicinal. Quimioinformática y descubrimiento de fármacos. Relaciones cuantitativas estructura-actividad y estructura propiedad (QSAR y QSPR). Docking de molécula pequeña. Cribado virtual basado en la estructura del receptor. Evaluación experimental de moléculas hit. Métodos de simulación biomolecular. Optimización de fármacos líderes: Concepto y teoría."
+  },
+  {
+    "materia": {
+      "codigo": "16.32",
+      "nombre": "Redes Neuronales en Bioingeniería"
+    },
+    "contenidos_minimos": "Introducción a las redes neuronales. El modelo de Hopfield. Problemas de optimización Perceptrones Simples. Redes Multicapa. Redes recurrentes. Aprendizaje no supervisado Hebbiano Aprendizaje Competitivo no Supervisado. Aplicaciones en Bioingeniería"
+  },
+  {
+    "materia": {
+      "codigo": "16.43",
+      "nombre": "Bioestadística"
+    },
+    "contenidos_minimos": "Diseños de investigación: clasificación y descripción. Estudios de corte transversal y de cohorte. Ensayos clínicos. Variables numéricas. Normalidad. Diseño de protocolo."
+  },
+  {
+    "materia": {
+      "codigo": "16.45",
+      "nombre": "Edición Genética"
+    },
+    "contenidos_minimos": ""
+  },
+  {
+    "materia": {
+      "codigo": "16.46",
+      "nombre": "Reprogramación celular y epigenética"
+    },
+    "contenidos_minimos": "."
+  },
+  {
+    "materia": {
+      "codigo": "16.51",
+      "nombre": "Int. a la Ciencia de Datos Aplicados a la Salud"
+    },
+    "contenidos_minimos": ""
+  },
+  {
+    "materia": {
+      "codigo": "16.52",
+      "nombre": "Inmunología Biológica"
+    },
+    "contenidos_minimos": "Introducción al estudio de células y órganos linfoides. Poblaciones celulares. Moléculas de adhesión y coestimulatorias. Citoquinas. Sistema del complemento. Estructura genética y regulación de la expresión de receptores de antígenos. Procesamiento y presentación de antígenos. Rol del complejo mayor de histocompatibilidad. Vías de presentación de antígenos. Interacciones celulares en la respuesta inmune humoral y celular. Activación y mecanismos efectores. Regulación en infecciones bacterianas, virales, parasitarias y micóticas. Educación tímica. Inmunología de las vacunas. Enfermedades autoinmunes e inmunología tumoral. Métodos experimentales para el estudio de las reacciones antígeno-anticuerpo."
+  },
+  {
+    "materia": {
+      "codigo": "16.53",
+      "nombre": "Biotecnología aplicada"
+    },
+    "contenidos_minimos": "La biotecnología es el empleo de sistemas biológicos, organismos vivos o sus derivados para la obtención de un bien o servicio útil para el hombre. Ejemplos de ello son productos tan antiguos como el vino y el pan o tan modernos como la producción de insulina humana por medio de bacterias genéticamente modificadas. En esta materia se abordará a la biotecnología desde una visión generalista con enfoques particulares en los contenidos generales de la carrera, de modo que los alumnos cuenten con una idea acabada de qué es la biotecnología y casos concretos de aplicación, para comprender éste área del conocimiento desde un lado tecnológico y transversal a muchas otras áreas de la biología, medicina, ingeniería, cultura, etc. Durante la cursada, los alumnos adquirirán un amplio espectro de conocimiento sobre aplicaciones de la biotecnología, detalles de procesos biotecnológicos desde los laboratorios de investigación hasta la producción industrial, aspectos legales, éticos y la proyección futura de la biotecnología acoplada a otras áreas de conocimiento actual: big data, industrias 4.0, nanotecnología, soluciones industriales, nuevas corrientes en alimentación, medicina, etc."
+  },
+  {
+    "materia": {
+      "codigo": "16.54",
+      "nombre": "Regulaciones Biomédicas"
+    },
+    "contenidos_minimos": "• Requisitos regulatorios aplicables a productos médicos. Regulaciones nacionales. Comercialización de productos médicos. Habilitación de empresa. Requisitos de infraestructura. Gestión de riesgos de productos médicos. Normas aplicables a productos médicos. • Gestión de Calidad. Sistema de Gestión de Calidad. Aprobación y puesta en el mercado de productos médicos. • Regulaciones internacionales aplicables a productos médicos. Latinoamerica. FDA. Marca CE. • Requisitos regulatorios aplicables a instituciones de salud. Legislación y normativas. Habilitaciones. Categorización de establecimientos de salud. Requisitos de infraestructura. • Evaluaciones externas. Certificación y Acreditación. Gestión de riesgos en salud."
+  },
+  {
+    "materia": {
+      "codigo": "16.57",
+      "nombre": "Robótica Bioinspirada"
+    },
+    "contenidos_minimos": "Que es un robot? Sensores y actuadores. Robots para el estudio de sistemas biológicos. Interacción humano-robot. Cognición embebida."
+  },
+  {
+    "materia": {
+      "codigo": "16.58",
+      "nombre": "Biomecánica del Deporte"
+    },
+    "contenidos_minimos": "Actividad muscular en el deporte y el ejercicio. Conceptos básicos y fundamentos biomecánicos del movimiento. Locomoción en ciclismo, running, natación y esquí. Saltos y movimientos aéreos: salto en alto, patinaje sobre hielo, salto de trampolín y ski jumping. Lanzamientos y golpes: jabalina, bala, martillo, hitting y kicking."
+  },
+  {
+    "materia": {
+      "codigo": "16.59",
+      "nombre": "Microfluídica"
+    },
+    "contenidos_minimos": "Historia y principales avances tecnológicos en el campo de la microfluídica (desde Membs hasta PoC). Conceptos básicos de la mecánica de Fluidos en régimen laminar. Materiales disponibles y métodos de micro fabricación. Aplicaciones actuales de la tecnología. Beneficio e innovación en el campo de la bioingeniería y la biotecnología."
+  },
+  {
+    "materia": {
+      "codigo": "16.65",
+      "nombre": "Genética del Comportamiento"
+    },
+    "contenidos_minimos": ""
+  },
+  {
+    "materia": {
+      "codigo": "16.66",
+      "nombre": "Reprogramación Celular"
+    },
+    "contenidos_minimos": ""
+  },
+  {
+    "materia": {
+      "codigo": "16.67",
+      "nombre": "Inmunología Biológica y Evasión Inmune"
+    },
+    "contenidos_minimos": ""
+  },
+  {
+    "materia": {
+      "codigo": "16.69",
+      "nombre": "Nanotecnología en Medicina y Cuidado de la Salud"
+    },
+    "contenidos_minimos": ""
+  },
+  {
+    "materia": {
+      "codigo": "16.71",
+      "nombre": "Ingeniería del Cerebro y el Comportamiento"
+    },
+    "contenidos_minimos": ""
+  },
+  {
+    "materia": {
+      "codigo": "16.72",
+      "nombre": "Análisis y Tratamiento de Imágenes"
+    },
+    "contenidos_minimos": ""
+  },
+  {
+    "materia": {
+      "codigo": "16.73",
+      "nombre": "Sistemas de Imágenes en Diagnóstico Médico"
+    },
+    "contenidos_minimos": ""
+  },
+  {
+    "materia": {
+      "codigo": "16.74",
+      "nombre": "Interfaces Cerebro Computadora y Neurorobótica"
+    },
+    "contenidos_minimos": ""
+  },
+  {
+    "materia": {
+      "codigo": "16.75",
+      "nombre": "Gestión de Procesos Hospitalarios"
+    },
+    "contenidos_minimos": "Diseño de procesos y operaciones, Gestión de la Demanda, Gestión de la Capacidad, Teoria de colas, Utilización de recursos y tasas de uso, Gestión de recurso humano, Lean manufacturing - Lean Healthcare, Proceso de atención de demanda espontánea, Proceso de atención de consultorios externos, Proceso de atención de estudios ambulatorios, Procesos de atención quirúrgica, Procesos de atención de internación, Automatización robotica de procesos (RPA), Transformación digital e industria 4.0 en procesos hospitalarios, Introducción a la Inteligencia Artificial en la gestión hospitalaria."
+  },
+  {
+    "materia": {
+      "codigo": "16.76",
+      "nombre": "Bases Fisicomatemáticas de la Biomecánica del Deporte"
+    },
+    "contenidos_minimos": "Actividad muscular en el deporte y el ejercicio. Conceptos básicos y fundamentos biomecánicos del movimiento. Locomoción en ciclismo, running, natación y esquí. Saltos y movimientos aéreos: salto en alto, patinaje sobre hielo, salto de trampolín y ski jumping. Lanzamientos y golpes: jabalina, bala, martillo, hitting y kicking."
+  },
+  {
+    "materia": {
+      "codigo": "16.77",
+      "nombre": "Tecnologías emergentes en plantas con aplicaciones terapéuticas"
+    },
+    "contenidos_minimos": "Historia de la medicina basada en plantas. Fisiología vegetal. Ingeniería genética. Biotecnología vegetal. Tipos de cultivos vegetales. Cultivos modificados para usos medicinales: producción de fármacos, mejoras nutricionales, producción de vacunas, medicina regenerativa."
+  },
+  {
+    "materia": {
+      "codigo": "16.78",
+      "nombre": "Enfermedades del Sistema Nervioso: Implicancias e innovaciones"
+    },
+    "contenidos_minimos": "Mecanismos Básicos en la Neuropatología. Enfermedades Neurodegenerativas: Patología y Enfoques de Bioingeniería. Epilepsia y Trastornos Convulsivos. Lesión Cerebral Traumática (TBI), Accidente Cerebrovascular e Isquemia cerebral. Interacción Neuroinmunológica y Neuropatologías Autoinmunes"
+  },
+  {
+    "materia": {
+      "codigo": "16.79",
+      "nombre": "Neurociencias"
+    },
+    "contenidos_minimos": "Organización del comportamiento y los sistemas de memoria. Procesos de aprendizaje, consolidación evocación y actualización. Plasticidad. Estudio práctico de los procesos de memoria. Evaluación de aprendizajes y memorias espaciales y asociativas. Farmacología en neurociencias. Cirugía cerebral estereotáxica. Mecanismos moleculares y celulares asociados a la formación de memorias. Cambios en la expresión génica. Poblaciones neuronales como sustrato de la memoria. Comunicación de producción científica."
+  },
+  {
+    "materia": {
+      "codigo": "16.80",
+      "nombre": "Microfluídica"
+    },
+    "contenidos_minimos": "Historia de la microfluídica. Conceptos básicos y física de la microfluídica. Materiales y técnicas de microfabricación. Sensores y actuadores. Tecnologías existentes. Aplicaciones clínicas. Principales agentes de la investigación y de la industria."
+  },
+  {
+    "materia": {
+      "codigo": "16.81",
+      "nombre": "Neurobiología del Aprendizaje y Control del Movimiento"
+    },
+    "contenidos_minimos": "Motoneurona inferior y circuito local, motoneurona superior y moduladores del movimiento, teorías del control motor, generalidades del aprendizaje y la memoria, aprendizaje motor, tecnologías y control/aprendizaje motor, entrenamiento deportivo."
+  },
+  {
+    "materia": {
+      "codigo": "16.82",
+      "nombre": "Neurociencia Computacional"
+    },
+    "contenidos_minimos": "Conceptos de neurobiología. Tipos de modelos: Niveles de análisis de Marr, Modelos Descriptivos, Mecanicistas e Interpretativos. Modelos de neuronas (Hodgkin-Huxley, Integra y Dispara, McCullough y Pitts). Reducción de Dimensiones. Plasticidad y aprendizaje. Codificación y Decodificación neuronal. Sistemas dinámicos. Análisis de redes. Control Óptimo. Aprendizaje por refuerzo. Redes neuronales."
+  },
+  {
+    "materia": {
+      "codigo": "16.83",
+      "nombre": "Introducción a cultivos celulares derivados de tejido nervioso"
+    },
+    "contenidos_minimos": "Introducción a la metodología de los cultivos celulares en general. Generalidades y particularidades de los distintos tipos de cultivos celulares. Ventajas y limitaciones de cada tipo de cultivo en el marco de su utilización. Conceptos anexos que contribuyen al entendimiento de los métodos de cultivo. Requerimientos específicos para cada cultivo. Buenas prácticas para trabajo en cultivo celular."
+  },
+  {
+    "materia": {
+      "codigo": "16.84",
+      "nombre": "Informática en Salud"
+    },
+    "contenidos_minimos": "Informática en Salud, una nueva disciplina. Fuentes y recuperación de la Información biomédica. Organización y presentación de la información. Los Sistemas de Salud desde la perspectiva de la información."
+  },
+  {
+    "materia": {
+      "codigo": "16.85",
+      "nombre": "Procesamiento Avanzado de Imágenes en Biología y Biomedicina"
+    },
+    "contenidos_minimos": "Evaluación de la calidad de las imágenes, estimación de ruido. Extracción de características: puntos de interés y descriptores de formas. Registro y fusión de imágenes. Detección y seguimiento de objetos: tracking. Análisis de movimiento. Redes neuronales y aprendizaje profundo: CNNs. Visión artificial y segmentación mediante CNNs. Transfer learning y fine-tuning de modelos pre-entrenados."
+  },
+  {
+    "materia": {
+      "codigo": "16.87",
+      "nombre": "Microfabricación"
+    },
+    "contenidos_minimos": "Unidad 1: Introducción a la microfabricación. Conceptos básicos de una Sala Limpia para microelectrónica. Sustratos: Obleas de Si, vidrio, SOI, GaN. Limpieza de oblea. Tecnología de Película Delgada. Crecimiento epitaxial. Oxidación térmica: Tipos de oxidación. Parámetros que influyen en la velocidad de oxidación. Dopaje: técnicas de implantación y difusión. Unidad 2: Conceptos generales de la litografía. Fabricación de máscaras mediante escritura directa. Litografía óptica con luz UV. Tipos de fotoresinas y proceso de recubrimiento, exposición y revelado. Alineación. Litografía por haz de electrones (EBL: Electron Beam Lithography). Litografías alternativas. Unidad 3: Deposición física en fase vapor (PVD: Physical Vapor Deposition): sputtering y evaporación. Deposición química en fase vapor (CVD: Chemical Vapor Deposition): APCVD, LPCVD, PECVD. Técnica de lift-off. Grabado y remoción de materiales mediante ataque seco: RIE (reactive ion etching) y ataque con haz de iones. Direccionalidad del ataque. Conceptos básicos de la generación del plasma. Aplicaciones. Grabado y remoción de materiales mediante ataque húmedo. Unidad 4: Caracterización de superficies. Perfilometría óptica y por contacto. Elipsometría para la caracterización de películas delgadas. Microscopía electrónica (SEM: Scanning Electron Microscopy). Microscopio de fuerza atómica (ATM: Atomic Force Microscopy). Procesos back-end: corte de oblea, soldadura del dispositivo y encapsulado. Caracterización eléctrica. Unidad 5: Ejemplos de procesos para distintas aplicaciones: MEMS (Microelectromechanical Systems): sensores, actuadores, acelerómetros y giróscopos. Microfluídica: chips para análisis bilógicos, lab-on-a-chip. Circuitos integrados. Foundries y procesos de fabricación estándar. Dispositivos ópticos."
+  },
+  {
+    "materia": {
+      "codigo": "16.88",
+      "nombre": "Avances Tecnol. para el estudio del SNC en mod. animales"
+    },
+    "contenidos_minimos": "Generación de animales genéticamente modificados. Circuitos neuronales. Principios básicos de conectividad y funcionalidad. Técnicas de registros electrofisiológicos in vivo. Tareas conductuales, ventajas y limitaciones."
+  },
+  {
+    "materia": {
+      "codigo": "16.89",
+      "nombre": "Laboratorio de Neurobiología de la Memoria"
+    },
+    "contenidos_minimos": "Trabajo directo con modelos animales. Manipulación de roedores, cirugías estereotáxicas para administrar fármacos en áreas específicas del cerebro. Paradigmas conductuales clásicos (evitación inhibitoria), reconocimiento de objetos. Evaluación de las fases de la memoria: adquisición, consolidación y evocación. Obtención de tejido cerebral, técnicas de biología molecular (qPCR), investigación integral de los mecanismos que construyen y sustentan los recuerdos."
+  },
+  {
+    "materia": {
+      "codigo": "16.90",
+      "nombre": "Laboratorio de Inmunología Biológica"
+    },
+    "contenidos_minimos": "Técnicas de laboratorio para la caracterización de la respuesta inmune antiinfecciosa. Western Blot aplicado a la caracterización de la inmunidad humoral antiinfecciosa. Preparación de muestras, elaboración y armado de geles. Realización de electroforesis y transferencia a membranas de PVDF. Bloqueo de membranas. Incubación con sueros problema y control. Detección y Revelado. Análisis de resultados e interpretación. Evaluación y caracterización de la respuesta inmune celular. Citometría de Flujo. Manejo de software de análisis, análisis de resultados. Procesamiento de resultados e interpretación."
+  },
+  {
+    "materia": {
+      "codigo": "16.91",
+      "nombre": "Sistemas Embebidos: Aplicaciones en Biomedicina"
+    },
+    "contenidos_minimos": "Introducción a sistemas embebidos. Instrumentación y control de procesos en la industria biotecnológica. Programación de microcontroladores. Protocolos de comunicación. Abstracciones usadas en la programación de sistemas embebidos."
+  },
+  {
+    "materia": {
+      "codigo": "16.92",
+      "nombre": "Nanocarriers biológicos: vesículas extracelulares y su potencial biotecnológico"
+    },
+    "contenidos_minimos": "1. Introducción al mundo de las las vesículas extracelulares (EVs) 2. Biogénesis y propiedades de las EVs 3. Ingenierización de vesículas extracelulares 4. Aplicaciones biomédicas y biotecnológicas 5. Taller de diseño de EVs para su aplicación biomédica."
+  },
+  {
+    "materia": {
+      "codigo": "16.93",
+      "nombre": "Análisis crítico de evidencia en bioingeniería"
+    },
+    "contenidos_minimos": "El curso introduce a los estudiantes en la lectura crítica de artículos científicos. Se abordan los fundamentos del diseño de estudios clínicos, análisis estadísticos y la interpretación de resultados en investigación aplicada a bioingeniería. Los contenidos incluyen: - Anatomía de un artículo científico. Pregunta de investigación y formulación PICOT. - Tipos de variables. Validez interna y externa. - Ensayos clínicos terapéuticos: diseño prospectivo, aleatorización, definición de outcomes clínicos. - Herramientas diagnósticas: sensibilidad, especificidad, valores predictivos, curvas ROC/AUC. - Acuerdo entre métodos: coeficiente kappa para variables categóricas, Bland-Altman, correlación y regresión para variables continuas. - Análisis crítico de cohortes prospectivas de validación de dispositivos. - Integración de la evidencia: fortalezas, limitaciones y aplicabilidad de los resultados en ingeniería biomédica. El curso enfatiza la discusión grupal de artículos científicos revisados por pares, el uso de checklists internacionales (CONSORT, STOBE) y la adquisición de herramientas críticas para evaluar respecto de validez y aplicabilidad clínica de nuevas tecnologías biomédicas."
+  },
+  {
+    "materia": {
+      "codigo": "16.94",
+      "nombre": "Biomimética"
+    },
+    "contenidos_minimos": "Introducción a la Biomimética y su historia como disciplina basada en la observación de la naturaleza. Casos emblemáticos y sus bases fisiológicas. Biomimética hoy: publicaciones académicas de los principales centros de investigación dedicados a biomimética. Sustentabilidad: el potencial de la biomimética en el desarrollo de materiales, energías renovables y arquitectura sustentable."
+  },
+  {
+    "materia": {
+      "codigo": "16.95",
+      "nombre": "Startups basadas en ciencia"
+    },
+    "contenidos_minimos": "Se presentan contenidos introductorios sobre el desarrollo de empresas basadas en ciencia. El curso aborda los aspectos fundamentales para construir una startup global desde Argentina, incluyendo mecanismos de financiamiento y modelos de crecimiento. A partir del análisis de casos reales, se ejemplifican los conceptos teóricos y se estudian estrategias para identificar oportunidades, conformar equipos fundadores, diseñar modelos de negocio y aplicar técnicas de validación en el mercado; además, se trabajarán las herramientas de comunicación necesarias para la búsqueda de inversión en etapas tempranas. A lo largo del curso, las y los estudiantes desarrollarán el diseño integral de una startup, aplicando en la práctica los conceptos aprendidos."
+  },
+  {
+    "materia": {
+      "codigo": "16.96",
+      "nombre": "Laboratorio de Bioimpresión"
+    },
+    "contenidos_minimos": "Presentación flujo básico de preparación de modelo e impresión: diseño ? slicer ? impresión. Biotintas: propiedades reológicas y su impacto en el proceso de impresión. Práctica: Aspectos de seguridad en la manipulación de la bioprinter y piezas impresas. Calibración de la bioimpresora y configuración de parámetros de impresión. Configuración del set-up de impresión. Diseño e impresión de piezas básicas usando biotintas de pruebas y biotintas comerciales. Pruebas de printabilidad de biotintas de prueba y comerciales. Mediciones de filamentos impresos y caracterización de la printabilidad de la biotinta. Diseño e impresión de scaffolds de distintas configuraciones geométricas. Diseño e impresión de scaffolds con gradientes de propiedades morfológicas y mecánicas. Diseño e impresión de geometrías relacionadas a la aplicación seleccionada."
+  },
+  {
+    "materia": {
+      "codigo": "17.15",
+      "nombre": "Introducción a la Ingeniería Ambiental"
+    },
+    "contenidos_minimos": ""
+  },
+  {
+    "materia": {
+      "codigo": "17.16",
+      "nombre": "Introducción a la Nanotecnología"
+    },
+    "contenidos_minimos": "Introducción a la nanotecnología y conceptos fundamentales. Tipos de nanomateriales y sus propiedades especiales. Métodos de síntesis de nanomateriales y de fabricación de microestructuras. Técnicas de análisis y caracterización de materiales. Aplicaciones y generación de nanomateriales para la electrónica, salud, agro, biocidas e industria química. Desafíos en la industria, aplicabilidad y escalabilidad."
+  },
+  {
+    "materia": {
+      "codigo": "22.57",
+      "nombre": "Microprocesadores y Control"
+    },
+    "contenidos_minimos": "Estudio desde el punto de vista físico y lógico de los microprocesadores: Diagrama de bloques. Buses. Registros. Instrucciones. Modos de direccionamiento. Estructura algorítmica. Periféricos de entrada salida. Proceso de interrupción. Temporizadores. Comparadores y capturadotes. Análisis de sistemas a partir de teoría de control tradicional, moderno y digital. Aplicaciones."
+  },
+  {
+    "materia": {
+      "codigo": "22.94",
+      "nombre": "Control Discreto"
+    },
+    "contenidos_minimos": "Se estudian los sistemas de control discreto utilizando transformada Z para resolver problemas tanto con un enfoque de tradicional como con variables de estado, orientando la metodología a la implementación de sistemas de control con microcontroladores. Los temas tratados incluyen análisis en el plano Z, evaluación de la estabilidad, diseño de sistemas de control PID, diseño con variables de estado, posicionamiento de polos y diseño óptimo"
+  },
+  {
+    "materia": {
+      "codigo": "23.05",
+      "nombre": "Acústica para Ingenieros"
+    },
+    "contenidos_minimos": "Vibraciones en sólidos. Acústica en medios fluidos. Acústica Arquitectónica. Mediciones y acústica experimental."
+  },
+  {
+    "materia": {
+      "codigo": "23.08",
+      "nombre": "Control Avanzado"
+    },
+    "contenidos_minimos": ""
+  },
+  {
+    "materia": {
+      "codigo": "23.15",
+      "nombre": "Realidad Virtual"
+    },
+    "contenidos_minimos": "Principios de realidad virtual. Graphics pipeline. Modelado 3D y motores de videojuegos. Lenguajes artísticos combinados. Rendering 3D. Diseño de interacción de realidad virtual."
+  },
+  {
+    "materia": {
+      "codigo": "25.88",
+      "nombre": "Redes Neuronales III"
+    },
+    "contenidos_minimos": "Repaso Capas Convolucionales Arquitecturas Convolucionales (Evolución) Clasificación Detección de Objetos Segmentación Semántica Autoencoders y Variational Autoencoders Redes Generativas de Imágenes: GANs, Stable Diffusion"
+  },
+  {
+    "materia": {
+      "codigo": "30.41",
+      "nombre": "Diseño Mecánico I"
+    },
+    "contenidos_minimos": "El proceso de Diseño. Requerimientos. Diseño Mecánico. Normas. Tolerancia superficial, dimensional y geométrica. Metrología. Documentación Técnica. Materiales de Ingeniería. Introducción a Procesos de manufactura: mecanizado, fundición, conformado y ensamble."
+  },
+  {
+    "materia": {
+      "codigo": "30.63",
+      "nombre": "Cadenas de Valor Circulares"
+    },
+    "contenidos_minimos": ""
+  },
+  {
+    "materia": {
+      "codigo": "30.64",
+      "nombre": "Bioenergía"
+    },
+    "contenidos_minimos": ""
+  },
+  {
+    "materia": {
+      "codigo": "31.25",
+      "nombre": "Termodinámica"
+    },
+    "contenidos_minimos": "Definiciones y postulados de la termodinámica. Leyes de la Termodinámica. Sustancias simples compresibles. Gas ideal. Máquinas Termodinámicas. Variación de energía y de entropía en procesos con y sin flujo de masa. Ciclos de potencia de vapor. Ciclos standard de aire."
+  },
+  {
+    "materia": {
+      "codigo": "61.05",
+      "nombre": "Economía de la Salud"
+    },
+    "contenidos_minimos": "El curso Economía de la Salud tiene como finalidad introducir al estudiante en el estudio de las relaciones entre la teoría económica y las ciencias de la salud, la forma en que se aplican las herramientas económicas para analizar, explicar, evaluar y proponer políticas, estrategias y regulaciones en el sector. El sistema de salud en la Argentina y los países de la región. Financiamiento, organización y prestación. Mecanismos regulatorios y políticas claves. Introducción. Economía de la salud. Autores y aportes más importantes de la economía de la salud. Características del mercado de la salud. El análisis económico de la empresa de salud. La naturaleza y la finalidad de la empresa. Estrategia y organización. Conceptos fundamentales para el diseño de la organización. Organización, estrategia y Entorno. Las modalidades de pago en la provisión de servicios de salud. La integración vertical entre aseguradoras y proveedores. Los cambios epidemiológicos y su impacto organizativo."
+  },
+  {
+    "materia": {
+      "codigo": "71.22",
+      "nombre": "Sistemas de Inteligencia Artificial"
+    },
+    "contenidos_minimos": "Aprendizaje Supervisado (Machine Learning): definiciones y tecnologías para su implementación. Aprendizaje No Supervisado: Definiciones y tecnologías para su implementación. Aplicaciones de Machine Learning al procesamiento de imágenes, lenguaje natural y otros campos relevantes."
+  },
+  {
+    "materia": {
+      "codigo": "71.38",
+      "nombre": "Programación web"
+    },
+    "contenidos_minimos": "Conceptos de metalenguajes. Conceptos de maquetación. Diseño de sitios web. Introducción a la programación en Javascript. Introducción a las hojas de estilo. Marcos de trabajo para el desarrollo de capas de presentación en aplicaciones."
+  },
+  {
+    "materia": {
+      "codigo": "71.88",
+      "nombre": "Gestión de Datos"
+    },
+    "contenidos_minimos": "1- Teoría Conceptos básicos y terminologías. Entidades, y atributos. Relaciones entre entidades Modelo entidad-relación. Integridad referencial. Proceso de normalización de tablas. Desarrollo de un diseño conceptual. Ejemplos. 2- Ejercitación con alguna de las bases de datos más usuales en el mercado. Creación de tablas. Definición de claves de acceso. Creación de ‘oins” y vistas. Aspectos de seguridad e integridad. Posicionamiento y tendencias de las bases de datos existentes. 3- Introducción a Date Warehousing y Data Mining. Bases de datos multidimensionales. Relación de estas tecnologías con Data Warehousing y Data Mining. Utilización de Data Mining para procesos de Toma de Decisiones. Productos, y tendencias de mercado."
+  },
+  {
+    "materia": {
+      "codigo": "71.94",
+      "nombre": "Introducción al Diseño de Bases de Datos Relacionales y No-Relacionales"
+    },
+    "contenidos_minimos": "Lenguaje SQL. Diseño e implementación de bases de datos. Diagrama Entidad-Relación. Introducción al lenguaje procedural PL/SQL. Estructuras de datos escalares y compuestas. Estructuras de control: ciclos y condicionales. Interacción con la base de datos usando cursores. Control de excepciones. Procedimientos y funciones almacenados en la base de datos. Paquetes. Mapeo de una base de datos relacional y el modelo de objetos de una aplicación. Uso de una herramienta ORM (Object-Relational Mapping)."
+  },
+  {
+    "materia": {
+      "codigo": "72.75",
+      "nombre": "Aprendizaje Automático (Machine Learning)"
+    },
+    "contenidos_minimos": "Diseño de sistemas de aprendizaje. Aprendizaje supervisado y no supervisado. Clasificación. Aprendizaje bayesiano. Clasificación paramétrica. Procedimientos de selección del modelo. Análisis de componentes principales. Métodos de clustering. Máquinas de vectores de soporte. Aprendizaje de árboles de decisiones. Aprendizaje basado en instancias."
+  },
+  {
+    "materia": {
+      "codigo": "72.87",
+      "nombre": "Diseño Sonoro para Animación y Videojuegos"
+    },
+    "contenidos_minimos": ""
+  },
+  {
+    "materia": {
+      "codigo": "72.90",
+      "nombre": "Internet de las Cosas (IoT)"
+    },
+    "contenidos_minimos": "Conceptos de microcontroladores. Introducción a la programación de microcontroladores. Sensores – señales digitales y analógicas. Control del medio ambiente. Integración de microcontroladores con aplicaciones informáticas. IPv6, MQTT. Aplicación a la transformación digital de las organizaciones."
+  },
+  {
+    "materia": {
+      "codigo": "72.96",
+      "nombre": "Proyecto de Aplicaciones Móviles"
+    },
+    "contenidos_minimos": "Introducción a Android, Manejo de Vistas, Arquitecturas Mobile, Navigation,Persistencia y transmisión de datos, ReactiveX, Networking, Dependency Injection, Testing"
+  },
+  {
+    "materia": {
+      "codigo": "73.61",
+      "nombre": "Neurorobótica"
+    },
+    "contenidos_minimos": "Fundamentos de Neurociencias. Procesamiento de señales. Sensores y actuadores. Internet de las Cosas. Técnicas de aprendizaje automático para procesamiento de series temporales."
+  },
+  {
+    "materia": {
+      "codigo": "73.63",
+      "nombre": "Redes Equivariantes"
+    },
+    "contenidos_minimos": "Identificación de simetrías en tareas de clasificación y segmentación. Definición de grupo y ejemplos Z_n, SO(2), O(2), y sus respectivos grupos afines. Redes convolucionales y equivariancia de traslación. Redes equivariantes de grupo: capas equivariantes, activación, biases y poolings equivariantes. Red equivariante de rotaciones 2D para análisis de imágenes médicas. Redes equivariantes de tipo \"steerable\""
+  },
+  {
+    "materia": {
+      "codigo": "73.66",
+      "nombre": "Procesamiento de Imágenes Satelitales"
+    },
+    "contenidos_minimos": "Conceptos básicos de teledetección. Manejo de imágenes satelitales. Manejo de datos vectoriales. Clasificación supervisada."
+  },
+  {
+    "materia": {
+      "codigo": "73.67",
+      "nombre": "Análisis de series de tiempo con Inteligencia Artificial"
+    },
+    "contenidos_minimos": "Introducción a las series de tiempo y señales. Aplicaciones y problemáticas típicas. Tareas de aprendizaje automático en series de tiempo: clasificación, regresión (regresión extrínseca) y predicción a futuro (forecasting). Estrategias para abordar cada tarea. Métodos basados en atributos. Clasificación y regresión con redes neuronales profundas: redes convolucionales, redes recurrentes, transformers. Modelos de tendencia-estacionalidad. Evaluación robusta en problemas de clasificación y predicción a futuro."
+  },
+  {
+    "materia": {
+      "codigo": "81.75",
+      "nombre": "Fund. del desarrollo de software y análisis de datos en Python"
+    },
+    "contenidos_minimos": "Fundamentos de Python. Data Analytics."
+  },
+  {
+    "materia": {
+      "codigo": "82.12",
+      "nombre": "Análisis de Información Biomédica"
+    },
+    "contenidos_minimos": "La materia se desarrolla en la forma de un taller en el que los estudiantes aprenderán los fundamentos de la industria de la salud, sus modelos de negocio, los datos que habitualmente se manejan en ella, y los problemas típicos que a los que se enfrenta. Una vez adquiridos esos conocimientos básicos, los estudiantes deberán trabajar en el desarrollo de un modelo analítico para resolver un problema de la industria. Este trabajo incluirá: seleccionar los datos de diversas fuentes, integrarlos, prepararlos, analizarlos utilizando la técnica más adecuada, y finalmente extraer y presentar las conclusiones a las que el sistema analítico permite arribar."
+  },
+  {
+    "materia": {
+      "codigo": "82.19",
+      "nombre": "Analítica del Deporte"
+    },
+    "contenidos_minimos": "Introducción a la industria del deporte Principales Indicadores de la industria Otros Tipos de ingresos en la industria ¿como interviene la industria del Advertising por ejemplo (redes, TV, derechos, etc.) y otros canales/sponsor. Análisis y Tipos de organizaciones. ONG, Franquicias, SA. SRL que intervienen en la industria del deporte. Herramientas de visualización y explotación de datos vinculados a la industria del deporte"
+  },
+  {
+    "materia": {
+      "codigo": "92.07",
+      "nombre": "Análisis Matemático V"
+    },
+    "contenidos_minimos": "Ecuaciones diferenciales en derivadas parciales: generalidades. Ecuación de la Onda. Ecuación de Difusión. Ecuación de Laplace. Problemas en recintos no acotados. Sistemas lineales en tiempo continuo: tratamiento en el dominio del tiempo y en el de las frecuencias. Sistemas lineales en tiempo discreto: tratamiento en el dominio del tiempo y en el de las frecuencias."
+  },
+  {
+    "materia": {
+      "codigo": "92.08",
+      "nombre": "Procesos Estocásticos"
+    },
+    "contenidos_minimos": ""
+  },
+  {
+    "materia": {
+      "codigo": "92.09",
+      "nombre": "Complementos de Análisis Matemático IV"
+    },
+    "contenidos_minimos": ""
+  },
+  {
+    "materia": {
+      "codigo": "92.90",
+      "nombre": "Complementos de Matemática"
+    },
+    "contenidos_minimos": ""
+  },
+  {
+    "materia": {
+      "codigo": "92.92",
+      "nombre": "Complementos de Física de la Relatividad"
+    },
+    "contenidos_minimos": "Introducción a la Relatividad Especial de Einstein."
+  },
+  {
+    "materia": {
+      "codigo": "92.97",
+      "nombre": "Complementos de Matemática V"
+    },
+    "contenidos_minimos": "complemento de contenido para equivalencia de planes."
+  },
+  {
+    "materia": {
+      "codigo": "93.75",
+      "nombre": "Métodos Numéricos Avanzados"
+    },
+    "contenidos_minimos": "Generación de números pseudos-aleatorios. Ortogonalidad y descomposición QR. Descomposición en valores singulares. Problemas de la matriz de autovalores y autovectores. Análisis de componente principales (PCA). Resolución de ecuaciones en derivadas parciales. Diferencias Finitas. Ecuaciones Elípticas. La ecuación de Laplace. Técnicas de solución y condiciones de borde. Métodos de multigrilla. Ajuste de curvas con funciones sinusoidales. Aproximación de Fourier. Integral y transformada de Fourier. Transformada Discreta de Fourier (DFT). Transformada Rápida de Fourier (FFT)."
+  },
+  {
+    "materia": {
+      "codigo": "94.19",
+      "nombre": "Comportamiento Organizacional"
+    },
+    "contenidos_minimos": "Las Organizaciones. Origen y evolución de las ideas sobre Organización. Relaciones con el entorno. Comportamiento Humano en la Organización. Personalidad. Actitud. Motivación. La Persona en Interacción: Cultura y cambio. Conducción y liderazgo. Política poder y conflicto en la Organización. Caracterización y solución de conflictos Las comunicaciones en la Organización. La organización del trabajo: grupos y equipos. Aplicaciones a emprendedorismo y a organizaciones de distinta índole."
+  },
+  {
+    "materia": {
+      "codigo": "94.24",
+      "nombre": "Metodología del Aprendizaje"
+    },
+    "contenidos_minimos": "1. El Enfoque Científico 2. Concepto 3. Dilucidación 4. Problema 5. Hipótesis 6. Ley y Teoría Científica 7. Explicación y Predicción 8. Observación y Medición 9. Experimento 10. Inferencia Científica"
+  },
+  {
+    "materia": {
+      "codigo": "94.40",
+      "nombre": "Estructura de las Organizaciones"
+    },
+    "contenidos_minimos": "Principios Básicos de la Organización Requerida. La importancia de las Organizaciones — El estado de su Desarrollo — Jerarquía de “Respondibilidad” Gerencial — Estructura de la Organización Requerida — Teoría de los Sistemas Estratificados. Acerca de la Capacidad Humana El trabajo — Tarea y Rol — Metas y Campo de Actividad — Conocimiento y Toma de Decisión - Procesamiento Mental — Capacidad Potencial. Complejidad de la Información — Horizonte Temporal y Lapso de Discrecionalidad - Habilidades Cognoscitivas — Diagramas de Progreso Pótencial. Estructura de la Organización Organización Manifiesta, Supuesta y Existente — Autoridad Gerencial Mínima — Nivel de Trabajo e Intervalo Temporal — Esquema Universal de Estratos Requeridós — El Colegio Corporativo. Alineamiento Funcional — Las distintas funciones en la empresa — Operacionales, de Apoyo, Control y Servicios — Unidad de Negocios — La Estructura Corporativa. Delegación de Tareas — Producción Directa y Delegada — Producción Directa Asistida y Regulada por Pólíticas — Delegación de Valores. Complejidad de Roles — Roles de Estrato 1 y II — Unidad de Reconocimiento Mutuo — Roles de Estrato IV y V — Unidad de Negocios — Roles de Estrato VI y VII — El trabajo Corporativo — Determinación de la Complejidad de Tareas. Compensación Diferencial Equitativa — Compensación percibida como justa — Estructura de Compensaciones - Bandas de Remuneración — Efectividad Personal. Prácticas de Liderazgo Gerencial Relaciones de Rol — Relaciones de Rol de Asignación de Tareas — Liderazgo y Autoridad — Carisma — Liderazgo Gerencial Gerente Subordinado — Trabajo en Equipo Gerencial - Fijación de Contexto — Planificación de Tareas. Liderazgo Gerencial Gerente Subordinado — Asignación de Tareas — Evaluación de Efectividad - Reconocimiento de Meritos — Entrenamiento en el Rol — Selección e Incorporación — Desafectación y Despido — Mejoramiento Continuo — Liderazgo Gerencial Gerente del Gerente — Procesos Interfuncionales — Tutoría — Promociones de Rol — Desarrollo de Carrera y Fuente de Talentos Relaciones de Rol de Iniciación de Tareas - Liderazgo Organizativo Subsistemas de Información — Procesos de Sucesión — Procesos de Reducción, Fusiones y Adquisiciones. Recapitulación y Puesta en Práctica Revisión de los principales conceptos — La práctica de aplicación en diferentes situaciones — Ejemplos. Comparación de las principales teorías de la Organización y el Gerenciamiento Weber, Taylor, Fayol Beer, McGregor, Senge y su parangón con E. Jaques."
+  },
+  {
+    "materia": {
+      "codigo": "94.42",
+      "nombre": "Comunicación Estratégica"
+    },
+    "contenidos_minimos": "Preparación del Plan de Carrera: Marketing personal. Armado del CV. Entrevistas de selección. Entrevistas grupales (assessment). Fuentes de Búsqueda. Competencias conversacionales: clave de la productividad del trabajo sustentado en el poder de la palabra. Sistema de herramientas: su funcionalidad. Confianza, sistema, comportamiento. Presentaciones orales y escritas eficaces: conceptos básicos de oratoria, soporte visual, comunicaciones escritas y construcción de informes. Equipos de trabajo. Dominio personal. Modelos mentales. Aprendizaje en equipo. Resolución de conflictos. Campos de Entrenamiento. El Nuevo Enfoque de la Comunicación Organizacional: La Intracomunicación. Estrategias de Intracomunicación: apalancamiento, acompañamiento, acercamiento, facilitamiento y anclamiento. Guía del mix estratégico."
+  }
+]
