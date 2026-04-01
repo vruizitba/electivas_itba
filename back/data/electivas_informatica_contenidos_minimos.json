@@ -11,823 +11,720 @@
       "codigo": "10.09",
       "nombre": "Formación para Emprendedores"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Contexto y Cultura del Emprendedor. El Emprendedor, su desarrollo Personal y Empresarial. El Proceso Emprendedor Profesional. El Equipo Emprendedor y el Management Requerido. Búsqueda de Ideas y Oportunidades. Validación de Ideas y Oportunidades. Modelización del Emprendimiento. Estrategias para el Acceso a Recursos Claves para Emprender."
   },
   {
     "materia": {
       "codigo": "11.36",
       "nombre": "Innovación y Competitividad"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": ""
   },
   {
     "materia": {
       "codigo": "16.04",
       "nombre": "Neurociencias y Desarrollo Productivo"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Introducción a la neurociencia cognitiva. Neuroanatomía funcional. Aprendizaje, recompensa y motivación. Procesos mnésicos. Sueño. Sueño y memoria. Atención. Ceguera atencional. Toma de decisiones. Resolución de problemas, pensamiento creativo y sueño. Emoción. Estrés como modulador de procesos cognitivos. Burned out. Sueño y rendimiento laboral. Recompensa y motivación. Mindfulness y cambios neurofisiológicos."
   },
   {
     "materia": {
       "codigo": "16.50",
       "nombre": "Introducción a la Bioinformática"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Conceptos de básicos de Biología Molecular. Paradigma de Darwin. Búsqueda de secuencias en bases de datos. Alineamiento de secuencias. Algoritmos de Needleman-Wunsch y Smith-Waterman. Programación en Bioinformática. Búsqueda de secuencias similares en bases de datos. Alineamiento de secuencias múltiple. Análisis de expresión génica y regulación. Inferencia y modelado de redes biológicas. Predicción de estructura secundaria de ARN y de proteínas. Métodos computacionales de identificación de proteínas. Ensamblado, análisis, visualización y anotación de Genomas."
   },
   {
     "materia": {
       "codigo": "16.57",
       "nombre": "Robótica Bioinspirada"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Que es un robot? Sensores y actuadores. Robots para el estudio de sistemas biológicos. Interacción humano-robot. Cognición embebida."
   },
   {
     "materia": {
       "codigo": "16.82",
       "nombre": "Neurociencia Computacional"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Conceptos de neurobiología. Tipos de modelos: Niveles de análisis de Marr, Modelos Descriptivos, Mecanicistas e Interpretativos. Modelos de neuronas (Hodgkin-Huxley, Integra y Dispara, McCullough y Pitts). Reducción de Dimensiones. Plasticidad y aprendizaje. Codificación y Decodificación neuronal. Sistemas dinámicos. Análisis de redes. Control Óptimo. Aprendizaje por refuerzo. Redes neuronales."
   },
   {
     "materia": {
       "codigo": "22.09",
       "nombre": "Fundamentos Electrónicos de la Informática"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": ""
   },
   {
     "materia": {
       "codigo": "22.48",
       "nombre": "Procesamiento de Imágenes"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "1 Fundamentos 2 Transformación de imágenes 3 Mejoramiento de imágenes 4 Restauración de imágenes 5 Procesamiento del Color 6 Periférico para la Conversión Analógica Digital 7 Análisis de imágenes y visión por computadora 8 Reconstrucción de la imagen a partir de sus proyecciones 9 Compresión de imágenes"
   },
   {
     "materia": {
       "codigo": "23.15",
       "nombre": "Realidad Virtual"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Principios de realidad virtual. Graphics pipeline. Modelado 3D y motores de videojuegos. Lenguajes artísticos combinados. Rendering 3D. Diseño de interacción de realidad virtual."
   },
   {
     "materia": {
       "codigo": "25.04",
       "nombre": "Computación Cuántica"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Orígenes de la Computación Cuántica. Qubits y Sistemas de Qubits. Circuitos Cuánticos. Paralelismo cuántico.Analogías y diferencias entre la computación cuántica y la clásica. Algoritmos cuánticos. Entrelazamiento cuántico. Redes cuánticas. Tecnologías de computadoras cuánticas. Lenguajes de programación en computación cuántica."
   },
   {
     "materia": {
       "codigo": "48.02",
       "nombre": "AI: Data Management Course & Digital Transformation"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Conceptos básicos de la inteligencia artificial, la gestión de datos y la transformación digital aplicadas a la industria del Oil & Gas. Aplicaciones, oportunidades y riesgos de las tecnologías en el ámbito energético. Impacto en la sociedad y en las organizaciones."
   },
   {
     "materia": {
       "codigo": "61.08",
       "nombre": "Derecho Digital"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Derecho y Tecnología. Responsabilidad jurídica de los distintos actores dentro de la Sociedad de la Información. Blockchain y sus implicancias. Data Privacy Propiedad intelectual. Ciberdelitos."
   },
   {
     "materia": {
       "codigo": "61.11",
       "nombre": "Derecho Laboral y Seguridad Social en la Empresa"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Contratacion laboral, Condiciones particulares del empleado Extinción de la relación laboral Seguridad social"
   },
   {
     "materia": {
       "codigo": "61.13",
       "nombre": "Práctica Contractual"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Régimen General contractual Cláusulas típicas de contratos de servicio y aplicación a emprendimientos Modalidades de de conclusión contractual y aplicación a emprendimientos adecuación de emprendimientos a contratos Caos prácticos."
   },
   {
     "materia": {
       "codigo": "61.50",
       "nombre": "Finanzas de la Empresa"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "-Objetivos de la gestión financiera de la empresa-Análisis financiero-Planeamiento financiero-Control financiero-Gestión del activo fijo y circulante-Mercados financieros y de capital-Valuación de obligaciones y acciones-Política de dividendos y estructura de capital-Derivados-Costo de capital-Fusión y adquisiciones de empresas"
   },
   {
     "materia": {
       "codigo": "71.48",
       "nombre": "Introducción a la realidad aumentada"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Fundamentos de la realidad aumentada (AR) y cómo crear una experiencia AR usando ARCore. Cómo identificar diferentes tipos de experiencias AR. Herramientas y plataformas utilizadas en el panorama AR. Casos de uso populares para AR. Cómo crear un flujo de uso de AR. Cómo funcionan las experiencias AR. Herramientas como Google Poly y Unity para crear experiencias AR Curso autodirigido https://www.coursera.org/learn/ar"
   },
   {
     "materia": {
       "codigo": "72.02",
       "nombre": "Organización Básica de la Computadora"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Sistemas de numeración. Representación de los datos en una computadora. Organización básica de la arquitectura Von Neumann. Nociones básicas de compiladores e intérpretes. Concepto de máquina virtual. Función de los vinculadores y cargadores. Programas ejecutables. Lenguaje de máquina: tipos de direccionamiento, formato de instrucciones. Macros y subrutinas. Estructura y funcionalidad de la UCP. Detección y manejo de interrupciones. Taller de aplicación con cartilla reducida de instrucciones de un lenguaje ensamblador tipo Z-80 o HC11."
   },
   {
     "materia": {
       "codigo": "72.18",
       "nombre": "Programación Funcional"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Características del Paradigma Funcional. Transparencia referencial. Mecanismo para construir tipos de datos recursivos y polimórficos, y estructuras de datos infinitas para construir funciones de orden superior. Cálculo lambda. Reducciones alpha, beta, tea, delta. Punto Fijo Formas de evaluación. Introducción a la semántica computacional. Tipos de semántica: denotacional, axiomática, operacional. Método formal para especificación y verificación de programas. Taller de aplicación con un lenguaje funcional tipo Lisp, Hope, ML, Miranda."
   },
   {
     "materia": {
       "codigo": "72.22",
       "nombre": "Sistemas Tolerantes a Fallas"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Características de los sistemas con alta disponibilidad (HA) y balanceo de carga (load balancing). Prevención, predicción y tolerancia a fallas. Remoción de fallas. Redundancia de Hardware y Software. Evaluación de costos: tasa de error, función y modelado de la confiabilidad, disponibilidad, seguridad. Estudio de casos aplicados a disco (RAID), ruteadores, servidores Web, servidores de aplicaciones (AppServers) y bases de datos. Taller de aplicación con simulaciones para detectar confiabilidad y reacción frente a las fallas. Uso de sistemas tipo OpenMosix, Linux VirtualServer, Linux HA."
   },
   {
     "materia": {
       "codigo": "72.23",
       "nombre": "Diseño y Construcción de Compiladores"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Diseño de un lenguaje. Tipos de datos como conjunto de valores y sus operaciones: elementales, algebraicos, recursivos, funcionales (arrow), parametrizados. Chequeo de tipos. Tipos de datos definidos por el programador. Implementación de analizador lexicográfico. Análisis sintáctico. Parsers: Recursivo descendente, LL(k), SLR(k), LR(k), LALR(k). Uso de utilitario Lex &Yacc. Tabla de símbolos. Su construcción. Análisis semántico. Generación de código intermedio y objeto. Técnicas de optimización. Manejo de memoria y organización runtime. Taller de aplicación."
   },
   {
     "materia": {
       "codigo": "72.28",
       "nombre": "Topología de Internet: Análisis y Modelado"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Motivación del estudio de la topología de Internet: distribución de grados y sus propiedades. Propiedades medidas en los redes. Modelos de redes sin escala. Métodos de exploración de la topología de Internet. Sesgo de las exploraciones"
   },
   {
     "materia": {
       "codigo": "72.29",
       "nombre": "Tipos para Lenguajes de Programación"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Cálculo Lambda. Sistemas de tipos simples. Referencias. Polimorfismo à la ML. Inferencia de tipos. Polimorfismo paramétrico. Subtipazo. Lenguajes de programación orientada a objetos. Subtipado guarded y generics. Tipos dependientes"
   },
   {
     "materia": {
       "codigo": "72.46",
       "nombre": "Robótica Basada en Comportamiento"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Introducción a los robots autónomos. Tipos de robots. Percepción y actuación. Comportamientos reactivos. Coordinación de múltiples comportamientos. Braitenberg Aprendizaje por Refuerzo: programación dinámica, métodos libres de modelos, representación del espacio de estados. Taller de aplicación"
   },
   {
     "materia": {
       "codigo": "72.49",
       "nombre": "Sistemas Tolerantes a Fallas"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Hardware y software tolerantes a fallas. Tolerancia a fallas en redes, almacenamiento, sistemas operativos y bases de datos. Sistemas Distribuidos. Replicación y balanceo de carga. Certificaciones y Normativas de Alta Disponibilidad COBIT/BCRA/ISO27000"
   },
   {
     "materia": {
       "codigo": "72.50",
       "nombre": "Introducción al Desarrollo de Videojuegos"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "El proceso de desarrollo de un videojuego: elección de metodología, pre-producción y producción, roles y responsabilidades del equipo de desarrollo, publicación del juego. Arquitectura de los videojuegos. Programación de videojuegos. Taller de aplicación con uso de entornos tipo Unity."
   },
   {
     "materia": {
       "codigo": "72.51",
       "nombre": "Tecnologías para Web 2.0 y Redes Sociales"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Redes sociales: Web Services, Twitter API, OpenID / OAuth, OpenSocial (Gadget Modules, Social Modules), Facebook API (FB Apps, FB Connect). Cloud Computing. OpenWeb. Taller de desarrollo."
   },
   {
     "materia": {
       "codigo": "72.52",
       "nombre": "Análisis y Tratamiento de Imágenes"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Representación de Imágenes Digitales. Procesamiento en el dominio espacial: Modelado de Histogramas y Filtros. Procesamiento en el dominio de la Frecuencia: Transformada de Fourier, DFT y FFT. Restauración. Segmentación y análisis de la Imagen"
   },
   {
     "materia": {
       "codigo": "72.53",
       "nombre": "Visión Computacional 3D"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Transformaciones 2D y 3D. Modelado y calibración de cámaras. Visión estérea: reconstrucción 3D con dos cámaras. Determinación del movimiento discreto de puntos y de líneas. Reconocimiento y localización de objetos para la navegación autónoma"
   },
   {
     "materia": {
       "codigo": "72.54",
       "nombre": "OLAP y Explotación de Datos"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Características de los sistemas On-Line Transaction Processing (OLTP) vs On-Line Analytical Processing (OLAP). Data Warehousing. Integración de la información: ETL. Modelado Multidimensional. Análisis de los hechos. Cubos: dimensiones y métricas. Operaciones sobre el cubo. Modelos MOLAP, ROLAP y HOLAP. Estructuras de datos y representaciones. Lenguajes de consulta. Descubrimiento de patrones (data mining). Reglas de asociación. Patrones secuenciales. Árboles y reglas de decisión. Algoritmos para clustering"
   },
   {
     "materia": {
       "codigo": "72.55",
       "nombre": "Ontologías en la Web"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Aspectos computacionales de la extracción e integración de la información proveniente de fuentes estructuradas y no estructuradas. Metadata. Semántica: ontologías, modelado de dominio, inferencia. Técnicas de extracción de metadata. Aplicaciones semánticas"
   },
   {
     "materia": {
       "codigo": "72.56",
       "nombre": "Automatización e Integración de Sistemas de Información"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Procesos y su automatización. Lenguajes para su especificación formal (Redes de Petri, Pi Calculus) y no formal (BPMN). Ambigüedad de las especificaciones en los lenguajes no formales. Compensaciones y transacciones. Estándares de Workflow y BPM (Business Process Management)."
   },
   {
     "materia": {
       "codigo": "72.57",
       "nombre": "Sistemas Embebidos"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Microcontroladores. Sistemas operativos para microcontroladores. Conceptos de sistemas embebidos. Simuladores y entornos de programación. Sistema de Tiempo Real en Sistemas Embebidos. Implementación de un sistema embebido"
   },
   {
     "materia": {
       "codigo": "72.58",
       "nombre": "Computación Gráfica"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Visión ortográfica y perspectiva. Modelo de cámara. 3D. Métodos de Rendering: Radiosity, Photon-mapping, Ray-Tracing. Remoción de zonas ocultas. Efectos lumínicos. Modelos de iluminación. Modelado de objetos Rendering en Tiempo Real. Técnicas de aceleración de cálculo. Taller de aplicación con programación de algoritmos"
   },
   {
     "materia": {
       "codigo": "72.59",
       "nombre": "Sistemas de Inteligencia Artificial II"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Lógica Difusa. Razonamiento Probabilístico. Redes Bayesianas. Autómatas celulares. Taller de aplicación."
   },
   {
     "materia": {
       "codigo": "72.60",
       "nombre": "Programación Funcional"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Características del Paradigma Funcional. Transparencia referencial. Mecanismo para construir tipos de datos recursivos y polimórficos. Estructuras de datos infinitas para funciones de orden superior. Cálculo lambda. Reducciones alpha, beta, tea, delta. Punto Fijo. Formas de evaluación. Introducción a la semántica computacional. Tipos de semántica: denotacional, axiomática, operacional. Método formal para especificación y verificación de programas. Taller de aplicación con un lenguaje funcional tipo Lisp, Hope, Haskel."
   },
   {
     "materia": {
       "codigo": "72.61",
       "nombre": "Taller de Diseño de Videojuegos"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Introducción a la mecánica núcleo. Profundidad (depth/z-axis of gameplay). Producción de elementos adicionales de jugabilidad (additional elements of gameplay). Planeamiento de un proyecto y creación de un listado de funcionalidades (Features List). Actividades prácticas sobre todos los temas del taller."
   },
   {
     "materia": {
       "codigo": "72.64",
       "nombre": "Cloud Computing"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Nuevo paradigma de “cloud computing”. Desarrollo de aplicaciones en la nube. Almacenamiento y seguridad. Monitoreo y administración."
   },
   {
     "materia": {
       "codigo": "72.65",
       "nombre": "Desarrollo de Videojuegos 2D en iPhone OS"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Proceso de desarrollo de un videojuego. Arquitectura y manejo de estados. Plataforma iOS. Programación y animación de gráficos 2D. Dispositivos e interfaces. Programación de audio. Análisis de aplicaciones iOS"
   },
   {
     "materia": {
       "codigo": "72.66",
       "nombre": "Sistemas Embebidos"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "• Introducción a la electrónica de componentes digitales, compuertas lógicas, multiplexores, decodificadores, contadores, comparadores, etc. • Introducción a los Sistemas Embebidos: Introducción a la materia, definición de sistema embebido, descripciones y características. Ejemplos de aplicaciones. • Puesta en marcha. Puertos de entrada/salida de uso general: Descripción de las herramientas de programación, kit de desarrollo y microcontrolador utilizado. Control de los GPIO. Práctica de los GPIO. • Sistemas de tiempo real: Características de los sistemas de tiempo real, manejo de las interrupciones de tiempo real. Ejemplo de estructura de un sistema de tiempo real. Práctica de uso del reloj de tiempo real. • Interfaces de comunicación y contról de pantalla: Descripción de diferentes protocolos de comunicación presentes con frecuencia en un sistema embebido. Control de la UART. RS232 y SPI. Práctica de RS232 • Memoria no volátil: Descripción de los diferentes tipos de memoria disponible en un microcontrolador. Estrategias para utilizar memoria RAM, Flash o EEPROM. Práctica de almacenamiento de información en memoria no volátil. • Conversores Analógico Digital: Descripción de los conversores analógico-digital. Modo de uso. Práctica de lectura de señales analógicas. • Registros especiales y Watchdog: Características y formas de uso de los registros especiales del microprocesador. Configuraciones generales y protección de la memoria. Estrategias de uso y configuración del Watchdog. • Diseño de sistemas embebidos: Taller de discusión guiado para realizar el diseño de un sistema embebido. • Sistemas operativos en sistemas embebidos: Descripción y características de los sistemas operativos en sistemas embebidos. Sistemas operativos de tiempo real."
   },
   {
     "materia": {
       "codigo": "72.67",
       "nombre": "Robótica Cinemática Computacional"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": ""
   },
   {
     "materia": {
       "codigo": "72.68",
       "nombre": "Arte y Ciencia Interactivos"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": ""
   },
   {
     "materia": {
       "codigo": "72.69",
       "nombre": "Seguridad de Software basada en Flujo de Información"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": ""
   },
   {
     "materia": {
       "codigo": "72.70",
       "nombre": "Modelos e Imágenes Fractales"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": ""
   },
   {
     "materia": {
       "codigo": "72.71",
       "nombre": "Integración de Sistemas de Información"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Procesos, su modelado, su mejora y su automatización. Modelado de procesos usando el estándar de modelado BPMN (Business Process Model and Notation). Estándar BPMN Completo. Áreas de oportunidad de implementación de procesos. Técnicas de relevamiento de procesos. Modelos As-Is y To-Be. Relevamiento en la práctica de procesos de una empresa real."
   },
   {
     "materia": {
       "codigo": "72.72",
       "nombre": "Análisis y Verificación de Modelos y Códigos"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Qué es el análisis automático de modelos. Qué es el análisis automático de código. El lenguaje de modelado Alloy. El lenguaje de modelado de comportamiento JML (Java Modeling Language). SAT-solving. SMT-Solving. Ejecución simbólica. Generación automática de tests de unidad. Detección automática de fallas en código Java. La herramienta de detección de fallas TACO. Reparación automática de programas a partir de tests (NOPOL, GenProg). Reparación automática de programa a partir de contratos (Stryker)."
   },
   {
     "materia": {
       "codigo": "72.73",
       "nombre": "Aprendizaje por Refuerzo en Robótica"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": ""
   },
   {
     "materia": {
       "codigo": "72.74",
       "nombre": "Visualización de Información"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Introducción a la Visualización de Información. Antecedentes históricos. Tipo de datos. Etapas en la visualización de datos. Posibles interacciones para convertir a un gráfico estático en una visualización. Técnicas para la exploración de datos. Limpieza de datos (data cleansing, data wrangling). Mapeo de datos en elementos visuales. Uso del color. Percepción gráfica. Excelencia & ChartJunk. Análisis de casos de Visualizaciones"
   },
   {
     "materia": {
       "codigo": "72.75",
       "nombre": "Aprendizaje Automático (Machine Learning)"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Diseño de sistemas de aprendizaje. Aprendizaje supervisado y no supervisado. Clasificación. Aprendizaje bayesiano. Clasificación paramétrica. Procedimientos de selección del modelo. Análisis de componentes principales. Métodos de clustering. Máquinas de vectores de soporte. Aprendizaje de árboles de decisiones. Aprendizaje basado en instancias."
   },
   {
     "materia": {
       "codigo": "72.77",
       "nombre": "Técnicas Automáticas para Testing de Software"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": ""
   },
   {
     "materia": {
       "codigo": "72.78",
       "nombre": "OLAP Espacial"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": ""
   },
   {
     "materia": {
       "codigo": "72.79",
       "nombre": "Sistemas Multiagente I"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": ""
   },
   {
     "materia": {
       "codigo": "72.80",
       "nombre": "Big Data"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Sistemas de archivos distribuidos: estructura y funcionamiento. Clústeres de almacenamiento distribuido. Consulta y modelado de bases de datos NoSQL. Implementación de algoritmos de procesamiento distribuido y paralelo. Modelo de programación MapReduce. Streaming y análisis de datos en tiempo real."
   },
   {
     "materia": {
       "codigo": "72.81",
       "nombre": "Simulación y Animación de Sistemas Multipartículas"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": ""
   },
   {
     "materia": {
       "codigo": "72.82",
       "nombre": "Tópicos de NOSQL"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": ""
   },
   {
     "materia": {
       "codigo": "72.83",
       "nombre": "Técnicas Avanzadas de HCI con Uso de Rastreadores de Ojos y Manos"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": ""
   },
   {
     "materia": {
       "codigo": "72.84",
       "nombre": "Base de Datos Espaciales y Sistemas de Información Geográfica"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Introducción a las bases de datos espaciales y los sistemas de información geográfica. Información Vectorial y Raster. Tipos de datos: geometría y geografía. Sistemas de Referencia Espacial. Proyecciones cartográficas. Operadores y funciones espaciales. Mapas temáticos. Optimización por cortes naturales de Jenks. Rotulado. Paletas de colores. Servicios WMS y WFS. Utilización de datos espaciales en motores NoSQL."
   },
   {
     "materia": {
       "codigo": "72.85",
       "nombre": "Análisis de Datos en la Web Semántica"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": ""
   },
   {
     "materia": {
       "codigo": "72.86",
       "nombre": "Técnicas Avanzadas en Videojuegos"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Protocolos UDP y TCP. Compresión de números enteros y en punto flotante. Compresión de orientaciones y posiciones. Compresión de Ids. Arquitecturas Lockstep y Snapshot Interpolation. Pros y contras de predicción en juegos multiplayer. Hosting en nube (VPS). Sistemas distribuidos para juegos. Escalabilidad horizontal y vertical."
   },
   {
     "materia": {
       "codigo": "72.87",
       "nombre": "Diseño Sonoro para Animación y Videojuegos"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": ""
   },
   {
     "materia": {
       "codigo": "72.88",
       "nombre": "Introducción a la Neurociencia Computacional"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Neurobiología básica. Distintos tipos de modelos: descriptivos, mecanicistas e interpretativos. Codificación neuronal. Estadística del tren de disparos. Decodificación neuronal. Reconstrucción de estímulos. Cálculo de la información en el tren de disparos. Modelos de Hodgkin-Huxley, integra-y-dispara y de redes neuronales. Plasticidad sináptica y aprendizaje. Neuronas como clasificadores y aprendizaje supervisado."
   },
   {
     "materia": {
       "codigo": "72.89",
       "nombre": "Moneda Digital Descentralizada"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "El objetivo del curso es comprender el funcionamiento a nivel técnico de Bitcoin, incluyendo también aspectos económicos, alcanzando un entendimiento en profundidad de todo el sistema. Abordaremos cuestiones importantes acerca de Bitcoin, tales como: ¿Cómo funciona Bitcoin? ¿Qué tan seguro es? ¿Cuán anónimos son los usuarios de Bitcoin? ¿Qué determina el precio de cada Bitcoin? ¿Cómo pueden ser reguladas las llamadas “criptomonedas”? ¿Cómo evolucionará el sistema hacia el futuro? Al finalizar el curso, el alumno contará con conocimientos suficientes para correctamente identificar las posibilidades del sistema, comprender cómo diseñar y crear software seguro que utilice el sistema, implementar sistemas que aprovechen las capacidades de la blockchain, y aconsejar a instituciones financieras sobre los beneficios y problemáticas asociadas con el uso de Bitcoin."
   },
   {
     "materia": {
       "codigo": "72.90",
       "nombre": "Internet de las Cosas (IoT)"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Conceptos de microcontroladores. Introducción a la programación de microcontroladores. Sensores – señales digitales y analógicas. Control del medio ambiente. Integración de microcontroladores con aplicaciones informáticas. IPv6, MQTT. Aplicación a la transformación digital de las organizaciones."
   },
   {
     "materia": {
       "codigo": "72.92",
       "nombre": "El Paradigma NoSQL - Bases de Datos de Grafos"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Conceptos de Big Data. Modelo de Datos de grafos. Su comparación con modelo relacional. Lenguajes de Consulta sobre grafos: patrones y navegación. Modelos de implementación local vs global: Property Graph vs Linked Data. Frameworks para procesamiento de grafos. Taller de aplicación con motores de bases de datos de grafo de código abierto."
   },
   {
     "materia": {
       "codigo": "72.94",
       "nombre": "Introducción a los Sistemas Embebidos"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Introducción a la electrónica de componentes digitales, compuertas lógicas, multiplexores, decodificadores, contadores, comparadores, etc. Introducción a los Sistemas Embebidos: Introducción a la materia, definición de sistema embebido, descripciones y características. Ejemplos de aplicaciones. Puesta en marcha. Puertos de entrada/salida de uso general: Descripción de las herramientas de programación, kit de desarrollo y microcontrolador utilizado. Control de los GPIO. Práctica de los GPIO. Sistemas de tiempo real: Características de los sistemas de tiempo real, manejo de las interrupciones de tiempo real. Ejemplo de estructura de un sistema de tiempo real. Práctica de uso del reloj de tiempo real. Interfaces de comunicación y control de pantalla: Descripción de diferentes protocolos de comunicación presentes con frecuencia en un sistema embebido. Control de la UART. RS232 y SPI. Práctica de RS232. Memoria no volátil: Descripción de los diferentes tipos de memoria disponible en un microcontrolador. Estrategias para utilizar memoria RAM, Flash o EEPROM. Práctica de almacenamiento de información en memoria no volátil. Conversores Analógico Digital: Descripción de los conversores analógico-digital. Modo de uso. Práctica de lectura de señales analógicas. Diseño de sistemas embebidos: Taller de discusión guiado para realizar el diseño de un sistema embebido. Selección de Hardware: Análisis de factibilidad entre Harware de terceros y desarrollo propio."
   },
   {
     "materia": {
       "codigo": "72.95",
       "nombre": "Proyecto de Innovación Científico-Tecnológico"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": ""
   },
   {
     "materia": {
       "codigo": "72.96",
       "nombre": "Proyecto de Aplicaciones Móviles"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Introducción a Android, Manejo de Vistas, Arquitecturas Mobile, Navigation,Persistencia y transmisión de datos, ReactiveX, Networking, Dependency Injection, Testing"
   },
   {
     "materia": {
       "codigo": "72.97",
       "nombre": "Introducción a la Programación de Videojuegos"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Introducción al diseño de videojuegos. Programación de videojuegos: Motores, Patrones de diseño específicos (strategy, facade, managers, command, observer). Entorno de desarrollo: programación de juegos 3D, sistema de componentes, assets, sonidos, objetos 3D."
   },
   {
     "materia": {
       "codigo": "73.21",
       "nombre": "Desarrollo de Aplicaciones Móviles Multiplataforma"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Introducción a Dart y Flutter, Vistas, Manejo de Estados, Navegación y Deep Linking, Persistencia y Networking, Manejo de Permisos, Seguridad, Notificaciones Push, Mantenimiento de aplicaciones móviles multiplataforma."
   },
   {
     "materia": {
       "codigo": "73.22",
       "nombre": "Fundamentos de DevOps"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "- Orígenes de DevOps. Relación con otras metodologías como Agile y Lean. Motivación. - Control de versiones y gestión de cambios. - Integración Continua. Concepto y herramientas. - Deployment Continuo: Concepto y herramientas. - Seguridad en DevOps"
   },
   {
     "materia": {
       "codigo": "73.23",
       "nombre": "Programación Orientada a Datos"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Comparación de Programación Orientada a Datos (DOP) con Programación Orientada a Objetos (OOP). Principios de DOP. Inferencia de Tipos. Modelado de Dominios Cerrados: Procesamiento de Datos con Pattern Matching. Refactorización y Diseño. Aplicaciones prácticas de DOP."
   },
   {
     "materia": {
       "codigo": "73.30",
       "nombre": "Desarrollo profesional de software: del código al producto"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Principios de diseño de sistemas escalables, modulares y mantenibles. Sistemas Distribuidos: Microservicios y APIs. Desafíos de los sistemas distribuidos: comunicación y gestión de errores. Calidad del código y pruebas. Buenas prácticas de desarrollo."
   },
   {
     "materia": {
       "codigo": "73.40",
       "nombre": "ARQUITECTURA DE MICROSERVICIOS"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Conceptos, beneficios y desventajas de las arquitecturas de microservicios comparadas con las arquitecturas monolíticas. Criterios y herramientas para el diseño de una arquitectura de microservicios. Concepto de contenedor. Creación y uso de contenedores y servicios de apoyo para arquitectura de microservicios. Refactoring de aplicaciones monolíticas."
   },
   {
     "materia": {
       "codigo": "73.50",
       "nombre": "Infraestructura de Cómputo: Data Center, Cloud y Edge"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "1. Data Centers, componentes y dimensionamiento. Costos. 2. CPUs: CPUs/GPUs/TPUs. Datos estáticos y dinámicos. Infraestructura como código. Virtualización. Contenedores. Monitoreo. 3. Distribución del cómputo y de los datos. Cómputo en la nube. Edge computing. 4. Diseño de Data Centers para aplicaciones empresariales."
   },
   {
     "materia": {
       "codigo": "73.60",
       "nombre": "Introducción a la Robótica Empresarial"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Conceptos básicos de análisis de sonido. Amplitud y frecuencia. Análisis de Espectrograma. Interfaces para automatización. Introducción a Robótica industrial y móvil. Tipos de robots. Aplicaciones actuales en industrias."
   },
   {
     "materia": {
       "codigo": "73.61",
       "nombre": "Neurorobótica"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Fundamentos de Neurociencias. Procesamiento de señales. Sensores y actuadores. Internet de las Cosas. Técnicas de aprendizaje automático para procesamiento de series temporales."
   },
   {
     "materia": {
       "codigo": "73.62",
       "nombre": "Introducción a la Programación Paralela"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Evolución de las infraestructuras de software/hardware paralelas y distribuidas. Motivaciones. Conceptos. Ventajas. Aplicaciones. Programación concurrente/paralela. Java concurrency API. OpenMP. Modelo Fork-Join."
   },
   {
     "materia": {
       "codigo": "73.63",
       "nombre": "Redes Equivariantes"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Identificación de simetrías en tareas de clasificación y segmentación. Definición de grupo y ejemplos Z_n, SO(2), O(2), y sus respectivos grupos afines. Redes convolucionales y equivariancia de traslación. Redes equivariantes de grupo: capas equivariantes, activación, biases y poolings equivariantes. Red equivariante de rotaciones 2D para análisis de imágenes médicas. Redes equivariantes de tipo \"steerable\""
   },
   {
     "materia": {
       "codigo": "73.64",
       "nombre": "Temas Avanzados en Deep Learning"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Conceptos de Transformers. Algoritmos de Embedding y Positional Encoding. Aprendizaje por refuerzo. Retrieval Augmented Generation (RAG). Consideraciones éticas y de seguridad."
   },
   {
     "materia": {
       "codigo": "73.65",
       "nombre": "Procesamiento del Lenguaje Natural"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Introducción al NLP, Técnicas de procesamiento y preparación de textos, modelos de lenguaje, clasificación de textos, tecnologías para el procesamiento de lenguaje natural, aplicaciones típicas."
   },
   {
     "materia": {
       "codigo": "73.66",
       "nombre": "Procesamiento de Imágenes Satelitales"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Conceptos básicos de teledetección. Manejo de imágenes satelitales. Manejo de datos vectoriales. Clasificación supervisada."
   },
   {
     "materia": {
       "codigo": "73.67",
       "nombre": "Análisis de series de tiempo con Inteligencia Artificial"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Introducción a las series de tiempo y señales. Aplicaciones y problemáticas típicas. Tareas de aprendizaje automático en series de tiempo: clasificación, regresión (regresión extrínseca) y predicción a futuro (forecasting). Estrategias para abordar cada tarea. Métodos basados en atributos. Clasificación y regresión con redes neuronales profundas: redes convolucionales, redes recurrentes, transformers. Modelos de tendencia-estacionalidad. Evaluación robusta en problemas de clasificación y predicción a futuro."
   },
   {
     "materia": {
       "codigo": "73.80",
       "nombre": "SEGURIDAD OFENSIVA"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": ""
   },
   {
     "materia": {
       "codigo": "73.81",
       "nombre": "Ciberseguridad Ofensiva y Defensiva"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Gestión y análisis de vulnerabilidades. Metodologías de Penetration Testing. Reconocimiento y huella digital. Seguridad en aplicaciones web. Arquitectura de defensa en profundidad y zero trust. Hardening de sistemas operativos. Sistemas de Gestión de Eventos (SIEM) y el ciclo de respuesta a incidentes. Fundamentos y cadena de custodia. Adquisición de Evidencia Digital Volátil y Persistente."
   },
   {
     "materia": {
       "codigo": "73.82",
       "nombre": "Bases de Datos Espaciales y de Movilidad"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Bases de Datos Espaciales. Modelos vectorial y continuo. Extensiones espaciales de bases de datos relacionales. Análisis de datos geográficos: conceptos y herramientas. Análisis del movimiento: modelos abstracto y concreto. La base de datos MobilityDB. Lenguajes de Consulta de Objetos Móviles. Concepto de trayectoria. Patrones de trayectorias. Clustering y similitud de trayectorias. Aplicaciones a transporte marítimo, aéreo y urbano."
   },
   {
     "materia": {
       "codigo": "73.83",
       "nombre": "Gestión estratégica de la Ciberseguridad"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Evolución de la Seguridad de la Información. Modelos de Gobierno corporativo. Incidentes históricos que cambiaron el paradigma. Gestión del riesgo. Gestión de incidentes. Gestión de Identidades."
   },
   {
     "materia": {
       "codigo": "73.84",
       "nombre": "Ciencia de Datos Aplicada"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": ""
   },
   {
     "materia": {
       "codigo": "73.89",
       "nombre": "Introducción a Blockchain y Criptomonedas"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Conceptos de Blockchain. Mecanismos de consenso. Seguridad y escalabilidad de Blockchain. Utilización en billeteras digitales y transacciones. Gobernanza descentralizada, privacidad y regulaciones. Programación en Solidity. Creación de contratos inteligentes. Ecosistema de Blockchain."
   },
   {
     "materia": {
       "codigo": "73.98",
       "nombre": "Desarrollo Integral de Videojuegos"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Game design y el rol del diseñador. Diferentes roles de desarrollo y sus responsabilidades. Framework MDA (Mechanics, Dynamics, Aesthetics). Generación de ideas. Prototipos de mecánicas. Documentación. Visión compartida. Gameplay, tipos y variantes. Plan de alto nivel. Experiencia del usuario. Storytelling, narrativa no lineal y narrativa indirecta. Balance y gameflow."
   },
   {
     "materia": {
       "codigo": "81.13",
       "nombre": "Futuros Posibles"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "?Detección de señales de futuro. ? Construcción de escenarios futuros, para trabajar en la visión estratégica de las organizaciones. ? Técnica de backcasting storytelling para generar narrativas poderosas sobre el futuro deseado/preferido, que generen impacto. ? Técnicas de exploración, ideación y prototipado de artefactos del futuro que permitan experimentar esos futuros en el presente. ? Desarrollo de skillfutures tales como: pensamiento crítico y disruptivo, comunicación creativa, pensamiento anticipatorio e inteligencia colectiva ? Liderazgo"
   },
   {
     "materia": {
       "codigo": "81.14",
       "nombre": "Product Management"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "\"Introducción al Product Management. Rol del PM y Metodologías: Según diferentes marcos (SAFe, Scrum, Less, otros) Strategically Understanding a Company - Estratégica. Oportunidades y Validación de Hipótesis. Ejecución, Roadmap y Métricas. Trabajando con Diseño - UX, UI, Encuestas, Feedback. Trabajando con Ingeniería - Introducción. Lanzamiento de Producto. Design Thinking. Ciclo de Product-Development Life Cycle. Agile & Scrum- Product Books: Jobs to Be Done."
   },
   {
     "materia": {
       "codigo": "81.16",
       "nombre": "Negociación"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Ejercicios de técnicas de negociación."
   },
   {
     "materia": {
       "codigo": "81.57",
       "nombre": "Arquitectura de soluciones digitales"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Diseño conceptual de arquitecturas. Diseño técnico de Arquitecturas. Diseño de Arquitectura Tecnológica. Adopción y Proceso de Entrega Continua (CI/CD)."
   },
   {
     "materia": {
       "codigo": "81.74",
       "nombre": "Introducción a la realidad aumentada"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Fundamentos de la realidad aumentada (AR) y cómo crear una experiencia AR usando ARCore. Cómo identificar diferentes tipos de experiencias AR. Herramientas y plataformas utilizadas en el panorama AR. Casos de uso populares para AR. Cómo crear un flujo de uso de AR. Cómo funcionan las experiencias AR. Herramientas como Google Poly y Unity para crear experiencias AR Curso autodirigido https://www.coursera.org/learn/ar"
   },
   {
     "materia": {
       "codigo": "81.94",
       "nombre": "Experiencia Inmersiva de Innovación Tecnológica"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Inversión de riesgos, El Rol del Emprendedor. Mindset Silicon Valley.: El rol de las universidades. El rol de las aceleradoras y las incubadoras. Intrapreneur en empresas tecnológicas. Tecnologías emergentes."
   },
   {
     "materia": {
       "codigo": "82.08",
       "nombre": "Cloud Computing"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Introducción: conceptos de infraestructura de TI, modelos de negocio para la entrega de aplicaciones informáticas (inversión vs. Consumo). Anatomía de la Cloud: modelos de entrega IaaS, PaaS, SaaS. IaaS: virtualización, containers, almacenamiento en la nube. PaaS: conceptos, funcionalidad ofrecida en este nivel. SaaS: conceptos y aplicaciones, modelos económicos para la entrega de aplicaciones como servicio. Estándares de arquitectura cloud (Openstack, CloudFoundry). Análisis de la oferta de servicios cloud en el mercado."
   },
   {
     "materia": {
       "codigo": "82.18",
       "nombre": "Procesamiento del Lenguaje Natural"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Introducción al NLP, Técnicas de procesamiento y preparación de textos, modelos de lenguaje, clasificación de textos, tecnologías para el procesamiento de lenguaje natural, aplicaciones típicas."
   },
   {
     "materia": {
       "codigo": "82.21",
       "nombre": "Factibilidad de Proyectos Data Driven"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Materia práctica orientada a presentar un proyecto Data Driven y análisis de factibilidad internacional del mismo."
   },
   {
     "materia": {
       "codigo": "94.26",
       "nombre": "Comunicación Organizacional"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "UNIDAD 1: Procesos de comunicación interpersonales y organizacionales. Comunicación interna. Entrevistas y reuniones. UNIDAD 2: Presentaciones orales y escritas. El Informe escrito profesional UNIDAD 3: La comunicación en el grupo y el aprendizaje en equipos de trabajo. UNIDAD 4: El manejo del conflicto y las estrategias de resolución. La Negociación"
   },
   {
     "materia": {
       "codigo": "94.42",
       "nombre": "Comunicación Estratégica"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Preparación del Plan de Carrera: Marketing personal. Armado del CV. Entrevistas de selección. Entrevistas grupales (assessment). Fuentes de Búsqueda. Competencias conversacionales: clave de la productividad del trabajo sustentado en el poder de la palabra. Sistema de herramientas: su funcionalidad. Confianza, sistema, comportamiento. Presentaciones orales y escritas eficaces: conceptos básicos de oratoria, soporte visual, comunicaciones escritas y construcción de informes. Equipos de trabajo. Dominio personal. Modelos mentales. Aprendizaje en equipo. Resolución de conflictos. Campos de Entrenamiento. El Nuevo Enfoque de la Comunicación Organizacional: La Intracomunicación. Estrategias de Intracomunicación: apalancamiento, acompañamiento, acercamiento, facilitamiento y anclamiento. Guía del mix estratégico."
   },
   {
     "materia": {
       "codigo": "94.62",
       "nombre": "Ética en los Negocios"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Unidad I. Introducción General al Problema de la Etica y la Deontología La moral y la ética. La ética y la filosofía social. Principales corrientes y posturas éticas: Aristóteles y la teleología, Kant y el formalismo, Max Scheler y la teoría material de los Valores, Friedrich Nietzsche y el súper hombre, el relativismo moral. Deontología Profesional. Unidad II. Economía Política y Sociedad. Empresa y Comunidad. I) Derminación social de las actividades e ideas económicas. Cosmovisión religiosa, ética y actividades económicas. Max Weber y Robert K. Merton. El problema de la ideología, la clase y la representación de la actividad económica: Mannheim Textos de: Weber, Max, La ética protestante y el espíritu del capitalismo, Madrid, Ed. Revista de Derecho Privado, 1995 Mannheim, Karl, Ideología y utopía, Madrid, Aguilar, 1958 II) Temas de ética social: Marxismo, Capitalismo y modelos político económicos contemporáneos. Textos de: Karl Marx, Salario, Precio y Ganancia / El Capital / Trabajo asalariado y capital / Contribución a la crítica de la economía política, ed. varias Smith, Adam, An Inquiry into the nature and causes of the wealth of nations, Londres, Dutton, 1936 Ricardo, David, Principles of Political Economy and Taxation, Londres, Puttnam, 1821 Gramsci, Antonio, Cuadernos de la cárcel, ed. Varias Malthus, Robert, Primer Ensayo sobre la Población, Barcelona, Altaza, 1997 Unidad III. Aspectos legales y normativos de la actividad Empresarial I) Ciencias del Ser y del Deber Ser. Distinción. Características. II) Derecho como ciencia del Deber Ser. Concepto. La Norma Jurídica. Las Fuentes del derecho. III) Instituciones jurídicas: Persona. Persona física y jurídica. Responsabilidad. Distintas órbitas de responsabilidad legal. Responsabilidad Civil: Contractual y extracontractual. Responsabilidad penal. IV) Otras responsabilidades: A) Responsabilidad Disciplinaria: Ejercicio profesional. Fundamento. Alcances. Normas éticas que rigen el ejercicio de las profesiones. Secreto profesional. B) Responsabilidad Social Empresaria: La corporación como agente moral. Concepto. Límites. Explicitación en Códigos de Conducta. Unidad IV. Calidad, responsabilidad empresaria y Normas. “Balance Social de la empresa” y “Responsabilidad Social Corporativa” El problema de la voluntariedad. Ley, norma y dimensión ética. Reduccionismos contemporáneos. Expectativas comunitarias de la gestión empresaria. Calidad, certificación y responsabilidad empresaria. Factores políticos: El Libro Verde de la Unión Europea. Factores comerciales: la norma SA 8000 Textos: CEE, Libro Verde de la Unión Europea ISA, Norma SA 8000:2001 Responsabilidad Social Norma GRH 27001:2005 Gestión de los Recursos Humanos Familia de normas ISO 9000, ISO 14000, OHSAS 18000 (selección) Unidad V. Actividad Empresaria, política y Sociedad en la Argentina"
   },
   {
     "materia": {
       "codigo": "94.64",
       "nombre": "Prácticas Expositivas"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "El emisor. Autoconocimiento. El FODA de la historia personal. Las anécdotas y los puntos de inflexión. El rol de la emoción en la cognición individual y social. La influencia de la formación académica en los modelos mentales y los estereotipos. La importancia de la impronta personal. La proyección y la visualización de metas a futuro. La carga de las expectativas y el proceso de aprendizaje. El mensaje. La elección del tema. Estructura del contenido. Diseño de la estrategia. Técnicas de presentación. Los cuatro momentos imprescindibles. La cuestión técnica central. El lenguaje verbal y corporal. Las reacciones instantáneas. Construcción y control de escenarios. La puesta en escena. Las lagunas, los pozos y las montañas. Diagramación y preparación. La erudición del experto y el margen de error. El receptor. Diferentes tipos de auditorios. La cuestión profesional y la cuestión generacional. El encuentro individual. Elevator pitch. Virtual classroom & real time feedback. La entrevista al paso. La entrevista en profundidad. La conferencia, la clase y la presentación del plan de negocios. La Política, la empresa y la ONG. Ingeniería y sociedad. Auditorio entusiasta, indiferente, hostil. El diálogo y el debate. Metacognición El rol del error. Saldo de imprevistos. Los puntos de perspectiva. La autogestión y el cambio de estrategias. La visualización a futuro. El cambio conceptual lógico y corporal."
   },
   {
     "materia": {
       "codigo": "94.65",
       "nombre": "Practica Profesional supervisada"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": "Aplicación e integración de conocimientos y competencias adquiridas a lo largo de la formación del estudiante. Desarrollo de nuevos nuevos aprendizajes desde el enfoque de la práctica en un entorno profesional."
   },
   {
     "materia": {
       "codigo": "94.92",
       "nombre": "Escritura Académica"
     },
-    "contenidos_minimos": "",
-    "error": "page.goto: Target page, context or browser has been closed"
+    "contenidos_minimos": ""
   }
 ]
