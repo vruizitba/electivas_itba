@@ -3,4 +3,4 @@ const nextConfig = {
 	reactStrictMode: true,
 };
 
-export default nextConfig; //testin deploy 
+export default nextConfig; 
