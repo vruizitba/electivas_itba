@@ -7,6 +7,7 @@ loadEnv();
 
 const port = Number(process.env.PORT || 3001);
 const corsOrigin = process.env.CORS_ORIGIN || "*";
+const deployedCommit = process.env.RENDER_GIT_COMMIT || "local";
 const scrapeLocks = new Map();
 
 async function ensureCareerData(slug) {
@@ -61,7 +62,11 @@ const server = http.createServer(async (req, res) => {
 	}
 
 	if (url.pathname === "/health") {
-		sendJson(res, 200, { ok: true, service: "electivas-back" });
+		sendJson(res, 200, {
+			ok: true,
+			service: "electivas-back",
+			commit: deployedCommit,
+		});
 		return;
 	}
 
