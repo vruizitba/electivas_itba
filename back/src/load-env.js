@@ -6,4 +6,6 @@ function loadEnv() {
 	dotenv.config({ path: envPath, override: true });
 }
 
-module.exports = { loadEnv };
+module.exports = { loadEnv }; 
+
+//Testin deploy
